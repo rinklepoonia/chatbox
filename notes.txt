@@ -1,0 +1,21 @@
+1920px= 300px*2 = 600
+1440px = 150px*2 = 300
+
+max-width:1140px;
+
+max-width:1320px;
+
+format for responsive page
+
+max-width = ending point
+min-width = starting point
+width
+
+breakpoints
+        0 575px
+    sm >= 576px 767px
+    md >= 768px 991px
+    lg >= 992px 
+    xl >= 1200px
+    2xl >= 1400px
+
